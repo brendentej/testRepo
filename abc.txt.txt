@@ -1,3 +1,2 @@
-Creating repo
-pull check
+creating newBranch
 
